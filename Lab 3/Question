@@ -1,0 +1,5 @@
+Questions: 
+
+1.	Create table employdetails with empid references to the empid in employee table
+2.	Display the details of employee table where empid in employedetails table
+3.	Display the details of employee table where empid notin employedetails tabl
